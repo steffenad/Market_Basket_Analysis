@@ -1,4 +1,4 @@
-Association Rules & Market Basket Analysis
+## Association Rules & Market Basket Analysis
 
 
 Blackwell Electronics' board of directors is considering acquiring Electronidex,        
